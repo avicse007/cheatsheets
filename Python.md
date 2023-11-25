@@ -14,6 +14,7 @@ type(2.2) # float
 type(4E2) # float - 4*10 to the power of 2
 
 # Arithmetic
+
 10 + 3  # 13
 10 - 3  # 7
 10 * 3  # 30
